@@ -7,4 +7,7 @@ class Index
     {
         return 11111111;
     }
+    public function indx2(){
+    	return 33333333;
+    }
 }
